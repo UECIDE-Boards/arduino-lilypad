@@ -11,6 +11,7 @@ Package: arduino-lilypad
 Section: boards
 Architecture: all
 XBSC-Group: Arduino
+XBSC-Subgroup: Lilypad
 Depends: arduino
 Description: Arduino LilyPad w/ATmega168
  The LilyPad Arduino is a microcontroller board designed for wearables

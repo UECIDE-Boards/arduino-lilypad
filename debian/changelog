@@ -1,5 +1,6 @@
 arduino-lilypad (1.0.0) uecide; urgency=low
 
-  * Initial Release.
+  * Initial Import
 
- -- Matt Jenkins <matt@majenko.co.uk>  Thu, 29 Jan 2015 12:30:17 +0000
+ -- Matt Jenkins <matt@majenko.co.uk>  Tue, 25 Aug 2015 23:06:27 +0100
+
